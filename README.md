@@ -1,5 +1,5 @@
 <h1> Alura Plus <h1>
-<p> O Alura Plus é um projeto front end baseado em páginas iniciais de plataformas de streaming.<p>
+<h3> O Alura Plus é um projeto front end baseado em páginas iniciais de plataformas de streaming.<h3>
   
 <h2> Nesse projeto é utilizado a seguintes tecnologias:<h2>
         
